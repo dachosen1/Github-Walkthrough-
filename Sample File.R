@@ -8,6 +8,3 @@ library(glmnet)
 
 # Read file
 data <- read.csv('Data/mtcars2.csv')
-
-
-
