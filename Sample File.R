@@ -1,7 +1,12 @@
-# Read file 
-data <- read.csv('Data/iris.csv')
+# library
+library(ggplot2)
+library(formulaic)
+library(dplyr)
+library(broom)
+library(forcats)
+library(glmnet)
 
-# Make plot 
-plot_data <- plot(data)
 
+# Read file
+data <- read.csv('Data/mtcars2.csv')
 
