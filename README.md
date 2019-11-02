@@ -1,2 +1,3 @@
 # Github-Walkthrough-
-Sample repo to teach my team how to use Github
+
+Introduction to Git and Github presentation at Columbia University Applied Analytics Clubs 
